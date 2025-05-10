@@ -243,7 +243,7 @@ After login, you need to configure your Bearer Token authentication:
 ![Creating a Task](docs/screenshots/Capture%20d'écran%202025-05-10%20133454.png)
 
 **Screenshot of task creation response showing details:**
-![Task Details](docs/screenshots/Capture%20d'écran%202025-05-10%20133446.png)
+![Task Details](docs/screenshots/Capture%20d'écran%202025-05-10%20133510.png)
 
 The API will return appropriate status codes:
 - 200 OK for successful GET requests
